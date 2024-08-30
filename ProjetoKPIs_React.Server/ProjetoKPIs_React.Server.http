@@ -1,0 +1,6 @@
+@ProjetoKPIs_React.Server_HostAddress = http://localhost:5264
+
+GET {{ProjetoKPIs_React.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
